@@ -49,3 +49,6 @@ results/figures/*
 results/tables/*
 !results/figures/.gitkeep
 !results/tables/.gitkeep
+
+# Claude IDE settings
+.claude/
